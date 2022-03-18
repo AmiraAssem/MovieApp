@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,UAAU,CAAC;EACP,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;EACnB,KAAK,ECJE,IAAI;EDKX,gBAAgB,ECPN,OAAO;EDQjB,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,EAAE;EACP,KAAK,EAAC,EAEV;CAAC",
+    "sources": [
+        "Movie.module.scss",
+        "../../Scss/_colors.scss"
+    ],
+    "names": [],
+    "file": "Movie.module.css"
+}

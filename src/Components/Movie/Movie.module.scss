@@ -1,0 +1,14 @@
+@import '../../Scss/colors';
+.movieCard {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: $fontColor;
+    background-color: $lightBgColor;
+    position: absolute;
+    top: 0%;
+    right:0%
+
+}
